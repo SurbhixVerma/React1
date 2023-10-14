@@ -1,0 +1,33 @@
+.App {
+  text-align: center;
+}
+
+.container {
+  max-width: 600px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  font-size: 1.5rem;
+}
+
+.text-box {
+  border: 1px solid #ccc;
+  padding: 10x;
+  border-radius: 5px;
+  margin-top: 20px;
+}
+
+textarea {
+  width: 80%;
+  padding: 10px;
+  border: 1px solid #cccccc00;;
+  resize: none;
+}
+
+.word-count {
+  margin-top: 10px;
+  font-size: 0.8rem;
+  color: #666;
+}
